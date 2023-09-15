@@ -14,13 +14,13 @@ This scene loader was provided to me for the projet, along with documention on h
 Thanks to the scene loader, this story didn't require any coding.
 
 The main menu scene
-![Main menu scene](assets/images/image1.png)
+![Main menu scene](images/image1.png)
 
 Gameplay scene
-![Gameplay Scene](assets/images/image2.png)
+![Gameplay Scene](images/image2.png)
 
 Game over and credits scene
-![Game over and credits scene](assets/images/image2.png)
+![Game over and credits scene](images/image3.png)
 
 ## Story 2: Player behavior
 With my scenes set up, it was now time to create the scripts for my player.
